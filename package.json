@@ -2,7 +2,7 @@
   "name": "quieter-dark-color-theme",
   "displayName": "Quieter Dark Color Theme",
   "description": "Dark version of the default Quiet Light color theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "championswimmer",
   "icon": "icon.png",
   "engines": {
