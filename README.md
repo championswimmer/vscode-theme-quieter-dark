@@ -2,6 +2,9 @@
 
 Dark version of VS Code's default `Quiet Dark` theme.
 
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/championswimmer.quieter-dark-color-theme)
+![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/championswimmer.quieter-dark-color-theme)
+
 ## Sample 
 
 ![](./screenshot.png)
